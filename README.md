@@ -15,6 +15,6 @@ A short challenge designed to take 1-2 hours for backend developer candidates
 
 ## Tips:
 - The Ethers docs are great: https://docs.ethers.org/v5/
-- deploying a simple Express app on Render is really fast https://render.com/docs/deploy-node-express-app
-- ask us if you have questions!
-- create your own repo instead of forking this one to prevent copying
+- Deploying a simple Express app on Render is really fast https://render.com/docs/deploy-node-express-app
+- Ask us if you have questions!
+- Create your own repo instead of forking this one to prevent copying
