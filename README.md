@@ -1,7 +1,7 @@
 # keyp-backend-challenge
 A short challenge designed to take 1-2 hours for backend developer candidates 
 
-## Goal: Build a transaction scheduler queue which can handle for delays, failed transactions, gas issues, and nonce errors. Demonstrate an understanding of ethers.js, API server design, databases, and transactions in web3. 
+## Goal: Build a transaction scheduler queue which can handle delays, failed transactions, gas issues, and nonce errors. Demonstrate an understanding of ethers.js, API server design, databases, and transactions in web3. 
 
 ## Basic Outline:
 - Deploy a JavaScript serverful or serverless backend-only application to a hosting provider such as Render.com or Vercel
@@ -12,3 +12,9 @@ A short challenge designed to take 1-2 hours for backend developer candidates
 ## Deliverables: 
 - A hosted server with at least one exposed endpoint
 - A wallet which submits transactions on polygon network, just ask for some testing gas money if you need it :)
+
+## Tips:
+- The Ethers docs are great: https://docs.ethers.org/v5/
+- deploying a simple Express app on Render is really fast https://render.com/docs/deploy-node-express-app
+- ask us if you have questions!
+- create your own repo instead of forking this one to prevent copying
